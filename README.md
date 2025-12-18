@@ -65,3 +65,5 @@ DAX Measures
 Interactive Visualizations
 
 Dashboard Design & Storytelling
+
+Linkdin Profile - [https://www.linkedin.com/in/sabir-shaikh-64163036a]
